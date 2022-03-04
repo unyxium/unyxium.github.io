@@ -1,0 +1,27 @@
+h1 {
+  font-size: 3em;
+  font-family: "Helvetica", "Arial", "Sans-Serif";
+}
+
+h3 {
+  font-size: 3em;
+  font-family: "Helvetica", "Arial", "Sans-Serif";
+}
+
+p {
+  font-size: 1.5em;
+  font-family: "Tahoma", "Geneva", "sans-serif";
+  line-height: 1.4em;
+  color: #333;
+}
+
+.button {
+  background-color: #dddddd;
+  border-radius: 10px;
+  color: #333;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
