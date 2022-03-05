@@ -1,23 +1,33 @@
 body {
   font-size: 1.5em;
-  font-family: "Open Sans", "Sans-Serif", "Arial";
+  font-family: "Lato", "Sans-Serif", "Arial";
   line-height: 1.4em;
   color: #dddddd;
   background-color: #222222;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 h3 {
-  font-size: 1.7em;
+  font-size: 1.5em;
+}
+
+.main_box {
+  width: 800px;
+  margin: 7em auto;
+  padding: 3em;
+  background-color: #1a1a1a;
+  border-radius: 1em;
+  box-shadow: 3px 3px 7px 3px #000000;
+  text-align: center;
 }
 
 .external_site_button {
   background-color: #252525;
   border-radius: 10px;
-  color: #ff4c05;
+  color: #ffffff;
   padding: 20px 32px;
   text-align: center;
   text-decoration: none;
