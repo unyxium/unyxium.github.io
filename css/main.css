@@ -1,24 +1,23 @@
+body {
+  font-size: 1.5em;
+  font-family: "Open Sans", "Sans-Serif", "Arial";
+  line-height: 1.4em;
+  color: #dddddd;
+  background-color: #222222;
+}
+
 h1 {
-  font-size: 3em;
-  font-family: "Helvetica", "Arial", "Sans-Serif";
+  font-size: 2em;
 }
 
 h3 {
-  font-size: 3em;
-  font-family: "Helvetica", "Arial", "Sans-Serif";
-}
-
-p {
-  font-size: 1.5em;
-  font-family: "Tahoma", "Geneva", "sans-serif";
-  line-height: 1.4em;
-  color: #333;
+  font-size: 1.7em;
 }
 
 .external_site_button {
-  background-color: #dddddd;
+  background-color: #252525;
   border-radius: 10px;
-  color: #333;
+  color: #ff4c05;
   padding: 20px 32px;
   text-align: center;
   text-decoration: none;
