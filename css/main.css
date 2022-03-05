@@ -35,12 +35,12 @@ h3 {
   display: inline-block;
   font-size: 18px;
   outline-color: #252525;
-  outline-width: 1px;
-  outline-offset: -1px;
+  outline-width: 2px;
+  outline-style: none;
 }
 
 .external_site_button:hover {
   outline-color: #ff4d05;
-  outline-width: 1px;
-  outline-offset: -1px;
+  outline-width: 2px;
+  outline-style: solid;
 }
